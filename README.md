@@ -56,78 +56,10 @@
 
 </div>
 
----
-
-<div align="center">
-
-## GitHub Stats
-
-<img height="180em"
-src="https://github-readme-stats.vercel.app/api?username=iamSahil-dev&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true"/>
-
-<img height="180em"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamSahil-dev&layout=compact&theme=github_dark&hide_border=true"/>
-
 <br>
 
-<img
-src="https://streak-stats.demolab.com?user=iamSahil-dev&theme=github-dark-blue&hide_border=true"/>
-
-</div>
-
----
-
 <div align="center">
 
-## Featured Projects
-
-| Project | Description |
-|----------|-------------|
-| 🌾 **KrishiSetu** | AI-powered agriculture marketplace |
-| 🩸 **i-Blood** | Real-time donor matching platform |
-| 🥽 **Daksh** | Browser-based AI + AR/VR vocational learning platform |
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0d1117,50:1f6feb,100:22d3ee&section=footer"/>
 
 </div>
-
----
-
-<div align="center">
-
-## Currently Learning
-
-🧠 Machine Learning
-
-📊 Deep Learning
-
-👁️ Computer Vision
-
-✨ Generative AI
-
-🏗️ Full Stack AI Systems
-
-⚙️ System Design
-
-</div>
-
----
-
-<div align="center">
-
-## Current Terminal Session
-
-```bash
-sahil@github:~$ whoami
-Sahil Kumar
-
-sahil@github:~$ education
-B.Tech Computer & Communication Engineering
-Manipal University Jaipur
-
-sahil@github:~$ current_focus
-Machine Learning
-Deep Learning
-Computer Vision
-Generative AI
-
-sahil@github:~$ status
-Building AI-powered full-stack applications...
