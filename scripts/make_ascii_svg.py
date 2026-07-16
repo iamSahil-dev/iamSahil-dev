@@ -379,7 +379,7 @@ sahil@github:~$ whoami
 parts.append(
 f'''
 <rect
-x="{PAD+310}"
+x="{PAD+250}"
 y="{status_y-12:.1f}"
 width="8"
 height="14"

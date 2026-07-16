@@ -101,6 +101,33 @@ sahil@github: ~$ ./portrait.sh
         
     </g>
     
+    <rect
+    y="38.0"
+    width="4.7"
+    height="5.2"
+    fill="#22d3ee"
+    opacity="0">
+
+    <animate
+    attributeName="x"
+    from="20"
+    to="913.0"
+    begin="0.000s"
+    dur="0.04s"
+    fill="freeze"/>
+
+    <set
+    attributeName="opacity"
+    to="0.85"
+    begin="0.000s"/>
+
+    <set
+    attributeName="opacity"
+    to="0"
+    begin="0.035s"/>
+
+    </rect>
+    
     <clipPath id="r1">
     <rect
     x="20"
@@ -132,6 +159,33 @@ sahil@github: ~$ ./portrait.sh
         </text>
         
     </g>
+    
+    <rect
+    y="45.2"
+    width="4.7"
+    height="5.2"
+    fill="#22d3ee"
+    opacity="0">
+
+    <animate
+    attributeName="x"
+    from="20"
+    to="913.0"
+    begin="0.018s"
+    dur="0.04s"
+    fill="freeze"/>
+
+    <set
+    attributeName="opacity"
+    to="0.85"
+    begin="0.018s"/>
+
+    <set
+    attributeName="opacity"
+    to="0"
+    begin="0.053s"/>
+
+    </rect>
     
     <clipPath id="r2">
     <rect
@@ -165,6 +219,33 @@ sahil@github: ~$ ./portrait.sh
         
     </g>
     
+    <rect
+    y="52.4"
+    width="4.7"
+    height="5.2"
+    fill="#22d3ee"
+    opacity="0">
+
+    <animate
+    attributeName="x"
+    from="20"
+    to="913.0"
+    begin="0.036s"
+    dur="0.04s"
+    fill="freeze"/>
+
+    <set
+    attributeName="opacity"
+    to="0.85"
+    begin="0.036s"/>
+
+    <set
+    attributeName="opacity"
+    to="0"
+    begin="0.071s"/>
+
+    </rect>
+    
     <clipPath id="r3">
     <rect
     x="20"
@@ -196,6 +277,33 @@ sahil@github: ~$ ./portrait.sh
         </text>
         
     </g>
+    
+    <rect
+    y="59.6"
+    width="4.7"
+    height="5.2"
+    fill="#22d3ee"
+    opacity="0">
+
+    <animate
+    attributeName="x"
+    from="20"
+    to="913.0"
+    begin="0.054s"
+    dur="0.04s"
+    fill="freeze"/>
+
+    <set
+    attributeName="opacity"
+    to="0.85"
+    begin="0.054s"/>
+
+    <set
+    attributeName="opacity"
+    to="0"
+    begin="0.089s"/>
+
+    </rect>
     
     <clipPath id="r4">
     <rect
@@ -229,6 +337,33 @@ sahil@github: ~$ ./portrait.sh
         
     </g>
     
+    <rect
+    y="66.8"
+    width="4.7"
+    height="5.2"
+    fill="#22d3ee"
+    opacity="0">
+
+    <animate
+    attributeName="x"
+    from="20"
+    to="913.0"
+    begin="0.072s"
+    dur="0.04s"
+    fill="freeze"/>
+
+    <set
+    attributeName="opacity"
+    to="0.85"
+    begin="0.072s"/>
+
+    <set
+    attributeName="opacity"
+    to="0"
+    begin="0.107s"/>
+
+    </rect>
+    
     <clipPath id="r5">
     <rect
     x="20"
@@ -260,6 +395,33 @@ sahil@github: ~$ ./portrait.sh
         </text>
         
     </g>
+    
+    <rect
+    y="74.0"
+    width="4.7"
+    height="5.2"
+    fill="#22d3ee"
+    opacity="0">
+
+    <animate
+    attributeName="x"
+    from="20"
+    to="913.0"
+    begin="0.090s"
+    dur="0.04s"
+    fill="freeze"/>
+
+    <set
+    attributeName="opacity"
+    to="0.85"
+    begin="0.090s"/>
+
+    <set
+    attributeName="opacity"
+    to="0"
+    begin="0.125s"/>
+
+    </rect>
     
     <clipPath id="r6">
     <rect
@@ -293,6 +455,33 @@ sahil@github: ~$ ./portrait.sh
         
     </g>
     
+    <rect
+    y="81.2"
+    width="4.7"
+    height="5.2"
+    fill="#22d3ee"
+    opacity="0">
+
+    <animate
+    attributeName="x"
+    from="20"
+    to="913.0"
+    begin="0.108s"
+    dur="0.04s"
+    fill="freeze"/>
+
+    <set
+    attributeName="opacity"
+    to="0.85"
+    begin="0.108s"/>
+
+    <set
+    attributeName="opacity"
+    to="0"
+    begin="0.143s"/>
+
+    </rect>
+    
     <clipPath id="r7">
     <rect
     x="20"
@@ -324,6 +513,33 @@ sahil@github: ~$ ./portrait.sh
         </text>
         
     </g>
+    
+    <rect
+    y="88.4"
+    width="4.7"
+    height="5.2"
+    fill="#22d3ee"
+    opacity="0">
+
+    <animate
+    attributeName="x"
+    from="20"
+    to="913.0"
+    begin="0.126s"
+    dur="0.04s"
+    fill="freeze"/>
+
+    <set
+    attributeName="opacity"
+    to="0.85"
+    begin="0.126s"/>
+
+    <set
+    attributeName="opacity"
+    to="0"
+    begin="0.161s"/>
+
+    </rect>
     
     <clipPath id="r8">
     <rect
@@ -357,6 +573,33 @@ sahil@github: ~$ ./portrait.sh
         
     </g>
     
+    <rect
+    y="95.6"
+    width="4.7"
+    height="5.2"
+    fill="#22d3ee"
+    opacity="0">
+
+    <animate
+    attributeName="x"
+    from="20"
+    to="913.0"
+    begin="0.144s"
+    dur="0.04s"
+    fill="freeze"/>
+
+    <set
+    attributeName="opacity"
+    to="0.85"
+    begin="0.144s"/>
+
+    <set
+    attributeName="opacity"
+    to="0"
+    begin="0.179s"/>
+
+    </rect>
+    
     <clipPath id="r9">
     <rect
     x="20"
@@ -388,6 +631,33 @@ sahil@github: ~$ ./portrait.sh
         </text>
         
     </g>
+    
+    <rect
+    y="102.8"
+    width="4.7"
+    height="5.2"
+    fill="#22d3ee"
+    opacity="0">
+
+    <animate
+    attributeName="x"
+    from="20"
+    to="913.0"
+    begin="0.162s"
+    dur="0.04s"
+    fill="freeze"/>
+
+    <set
+    attributeName="opacity"
+    to="0.85"
+    begin="0.162s"/>
+
+    <set
+    attributeName="opacity"
+    to="0"
+    begin="0.197s"/>
+
+    </rect>
     
     <clipPath id="r10">
     <rect
@@ -421,6 +691,33 @@ sahil@github: ~$ ./portrait.sh
         
     </g>
     
+    <rect
+    y="110.0"
+    width="4.7"
+    height="5.2"
+    fill="#22d3ee"
+    opacity="0">
+
+    <animate
+    attributeName="x"
+    from="20"
+    to="913.0"
+    begin="0.180s"
+    dur="0.04s"
+    fill="freeze"/>
+
+    <set
+    attributeName="opacity"
+    to="0.85"
+    begin="0.180s"/>
+
+    <set
+    attributeName="opacity"
+    to="0"
+    begin="0.215s"/>
+
+    </rect>
+    
     <clipPath id="r11">
     <rect
     x="20"
@@ -452,6 +749,33 @@ sahil@github: ~$ ./portrait.sh
         </text>
         
     </g>
+    
+    <rect
+    y="117.2"
+    width="4.7"
+    height="5.2"
+    fill="#22d3ee"
+    opacity="0">
+
+    <animate
+    attributeName="x"
+    from="20"
+    to="913.0"
+    begin="0.198s"
+    dur="0.04s"
+    fill="freeze"/>
+
+    <set
+    attributeName="opacity"
+    to="0.85"
+    begin="0.198s"/>
+
+    <set
+    attributeName="opacity"
+    to="0"
+    begin="0.233s"/>
+
+    </rect>
     
     <clipPath id="r12">
     <rect
@@ -485,6 +809,33 @@ sahil@github: ~$ ./portrait.sh
         
     </g>
     
+    <rect
+    y="124.4"
+    width="4.7"
+    height="5.2"
+    fill="#22d3ee"
+    opacity="0">
+
+    <animate
+    attributeName="x"
+    from="20"
+    to="913.0"
+    begin="0.216s"
+    dur="0.04s"
+    fill="freeze"/>
+
+    <set
+    attributeName="opacity"
+    to="0.85"
+    begin="0.216s"/>
+
+    <set
+    attributeName="opacity"
+    to="0"
+    begin="0.251s"/>
+
+    </rect>
+    
     <clipPath id="r13">
     <rect
     x="20"
@@ -516,6 +867,33 @@ sahil@github: ~$ ./portrait.sh
         </text>
         
     </g>
+    
+    <rect
+    y="131.6"
+    width="4.7"
+    height="5.2"
+    fill="#22d3ee"
+    opacity="0">
+
+    <animate
+    attributeName="x"
+    from="20"
+    to="913.0"
+    begin="0.234s"
+    dur="0.04s"
+    fill="freeze"/>
+
+    <set
+    attributeName="opacity"
+    to="0.85"
+    begin="0.234s"/>
+
+    <set
+    attributeName="opacity"
+    to="0"
+    begin="0.269s"/>
+
+    </rect>
     
     <clipPath id="r14">
     <rect
@@ -549,6 +927,33 @@ sahil@github: ~$ ./portrait.sh
         
     </g>
     
+    <rect
+    y="138.8"
+    width="4.7"
+    height="5.2"
+    fill="#22d3ee"
+    opacity="0">
+
+    <animate
+    attributeName="x"
+    from="20"
+    to="913.0"
+    begin="0.252s"
+    dur="0.04s"
+    fill="freeze"/>
+
+    <set
+    attributeName="opacity"
+    to="0.85"
+    begin="0.252s"/>
+
+    <set
+    attributeName="opacity"
+    to="0"
+    begin="0.287s"/>
+
+    </rect>
+    
     <clipPath id="r15">
     <rect
     x="20"
@@ -580,6 +985,33 @@ sahil@github: ~$ ./portrait.sh
         </text>
         
     </g>
+    
+    <rect
+    y="146.0"
+    width="4.7"
+    height="5.2"
+    fill="#22d3ee"
+    opacity="0">
+
+    <animate
+    attributeName="x"
+    from="20"
+    to="913.0"
+    begin="0.270s"
+    dur="0.04s"
+    fill="freeze"/>
+
+    <set
+    attributeName="opacity"
+    to="0.85"
+    begin="0.270s"/>
+
+    <set
+    attributeName="opacity"
+    to="0"
+    begin="0.305s"/>
+
+    </rect>
     
     <clipPath id="r16">
     <rect
@@ -613,6 +1045,33 @@ sahil@github: ~$ ./portrait.sh
         
     </g>
     
+    <rect
+    y="153.2"
+    width="4.7"
+    height="5.2"
+    fill="#22d3ee"
+    opacity="0">
+
+    <animate
+    attributeName="x"
+    from="20"
+    to="913.0"
+    begin="0.288s"
+    dur="0.04s"
+    fill="freeze"/>
+
+    <set
+    attributeName="opacity"
+    to="0.85"
+    begin="0.288s"/>
+
+    <set
+    attributeName="opacity"
+    to="0"
+    begin="0.323s"/>
+
+    </rect>
+    
     <clipPath id="r17">
     <rect
     x="20"
@@ -644,6 +1103,33 @@ sahil@github: ~$ ./portrait.sh
         </text>
         
     </g>
+    
+    <rect
+    y="160.4"
+    width="4.7"
+    height="5.2"
+    fill="#22d3ee"
+    opacity="0">
+
+    <animate
+    attributeName="x"
+    from="20"
+    to="913.0"
+    begin="0.306s"
+    dur="0.04s"
+    fill="freeze"/>
+
+    <set
+    attributeName="opacity"
+    to="0.85"
+    begin="0.306s"/>
+
+    <set
+    attributeName="opacity"
+    to="0"
+    begin="0.341s"/>
+
+    </rect>
     
     <clipPath id="r18">
     <rect
@@ -677,6 +1163,33 @@ sahil@github: ~$ ./portrait.sh
         
     </g>
     
+    <rect
+    y="167.6"
+    width="4.7"
+    height="5.2"
+    fill="#22d3ee"
+    opacity="0">
+
+    <animate
+    attributeName="x"
+    from="20"
+    to="913.0"
+    begin="0.324s"
+    dur="0.04s"
+    fill="freeze"/>
+
+    <set
+    attributeName="opacity"
+    to="0.85"
+    begin="0.324s"/>
+
+    <set
+    attributeName="opacity"
+    to="0"
+    begin="0.359s"/>
+
+    </rect>
+    
     <clipPath id="r19">
     <rect
     x="20"
@@ -708,6 +1221,33 @@ sahil@github: ~$ ./portrait.sh
         </text>
         
     </g>
+    
+    <rect
+    y="174.8"
+    width="4.7"
+    height="5.2"
+    fill="#22d3ee"
+    opacity="0">
+
+    <animate
+    attributeName="x"
+    from="20"
+    to="913.0"
+    begin="0.342s"
+    dur="0.04s"
+    fill="freeze"/>
+
+    <set
+    attributeName="opacity"
+    to="0.85"
+    begin="0.342s"/>
+
+    <set
+    attributeName="opacity"
+    to="0"
+    begin="0.377s"/>
+
+    </rect>
     
     <clipPath id="r20">
     <rect
@@ -741,6 +1281,33 @@ sahil@github: ~$ ./portrait.sh
         
     </g>
     
+    <rect
+    y="182.0"
+    width="4.7"
+    height="5.2"
+    fill="#22d3ee"
+    opacity="0">
+
+    <animate
+    attributeName="x"
+    from="20"
+    to="913.0"
+    begin="0.360s"
+    dur="0.04s"
+    fill="freeze"/>
+
+    <set
+    attributeName="opacity"
+    to="0.85"
+    begin="0.360s"/>
+
+    <set
+    attributeName="opacity"
+    to="0"
+    begin="0.395s"/>
+
+    </rect>
+    
     <clipPath id="r21">
     <rect
     x="20"
@@ -772,6 +1339,33 @@ sahil@github: ~$ ./portrait.sh
         </text>
         
     </g>
+    
+    <rect
+    y="189.2"
+    width="4.7"
+    height="5.2"
+    fill="#22d3ee"
+    opacity="0">
+
+    <animate
+    attributeName="x"
+    from="20"
+    to="913.0"
+    begin="0.378s"
+    dur="0.04s"
+    fill="freeze"/>
+
+    <set
+    attributeName="opacity"
+    to="0.85"
+    begin="0.378s"/>
+
+    <set
+    attributeName="opacity"
+    to="0"
+    begin="0.413s"/>
+
+    </rect>
     
     <clipPath id="r22">
     <rect
@@ -805,6 +1399,33 @@ sahil@github: ~$ ./portrait.sh
         
     </g>
     
+    <rect
+    y="196.4"
+    width="4.7"
+    height="5.2"
+    fill="#22d3ee"
+    opacity="0">
+
+    <animate
+    attributeName="x"
+    from="20"
+    to="913.0"
+    begin="0.396s"
+    dur="0.04s"
+    fill="freeze"/>
+
+    <set
+    attributeName="opacity"
+    to="0.85"
+    begin="0.396s"/>
+
+    <set
+    attributeName="opacity"
+    to="0"
+    begin="0.431s"/>
+
+    </rect>
+    
     <clipPath id="r23">
     <rect
     x="20"
@@ -836,6 +1457,33 @@ sahil@github: ~$ ./portrait.sh
         </text>
         
     </g>
+    
+    <rect
+    y="203.6"
+    width="4.7"
+    height="5.2"
+    fill="#22d3ee"
+    opacity="0">
+
+    <animate
+    attributeName="x"
+    from="20"
+    to="913.0"
+    begin="0.414s"
+    dur="0.04s"
+    fill="freeze"/>
+
+    <set
+    attributeName="opacity"
+    to="0.85"
+    begin="0.414s"/>
+
+    <set
+    attributeName="opacity"
+    to="0"
+    begin="0.449s"/>
+
+    </rect>
     
     <clipPath id="r24">
     <rect
@@ -869,6 +1517,33 @@ sahil@github: ~$ ./portrait.sh
         
     </g>
     
+    <rect
+    y="210.8"
+    width="4.7"
+    height="5.2"
+    fill="#22d3ee"
+    opacity="0">
+
+    <animate
+    attributeName="x"
+    from="20"
+    to="913.0"
+    begin="0.432s"
+    dur="0.04s"
+    fill="freeze"/>
+
+    <set
+    attributeName="opacity"
+    to="0.85"
+    begin="0.432s"/>
+
+    <set
+    attributeName="opacity"
+    to="0"
+    begin="0.467s"/>
+
+    </rect>
+    
     <clipPath id="r25">
     <rect
     x="20"
@@ -900,6 +1575,33 @@ sahil@github: ~$ ./portrait.sh
         </text>
         
     </g>
+    
+    <rect
+    y="218.0"
+    width="4.7"
+    height="5.2"
+    fill="#22d3ee"
+    opacity="0">
+
+    <animate
+    attributeName="x"
+    from="20"
+    to="913.0"
+    begin="0.450s"
+    dur="0.04s"
+    fill="freeze"/>
+
+    <set
+    attributeName="opacity"
+    to="0.85"
+    begin="0.450s"/>
+
+    <set
+    attributeName="opacity"
+    to="0"
+    begin="0.485s"/>
+
+    </rect>
     
     <clipPath id="r26">
     <rect
@@ -933,6 +1635,33 @@ sahil@github: ~$ ./portrait.sh
         
     </g>
     
+    <rect
+    y="225.2"
+    width="4.7"
+    height="5.2"
+    fill="#22d3ee"
+    opacity="0">
+
+    <animate
+    attributeName="x"
+    from="20"
+    to="913.0"
+    begin="0.468s"
+    dur="0.04s"
+    fill="freeze"/>
+
+    <set
+    attributeName="opacity"
+    to="0.85"
+    begin="0.468s"/>
+
+    <set
+    attributeName="opacity"
+    to="0"
+    begin="0.503s"/>
+
+    </rect>
+    
     <clipPath id="r27">
     <rect
     x="20"
@@ -964,6 +1693,33 @@ sahil@github: ~$ ./portrait.sh
         </text>
         
     </g>
+    
+    <rect
+    y="232.4"
+    width="4.7"
+    height="5.2"
+    fill="#22d3ee"
+    opacity="0">
+
+    <animate
+    attributeName="x"
+    from="20"
+    to="913.0"
+    begin="0.486s"
+    dur="0.04s"
+    fill="freeze"/>
+
+    <set
+    attributeName="opacity"
+    to="0.85"
+    begin="0.486s"/>
+
+    <set
+    attributeName="opacity"
+    to="0"
+    begin="0.521s"/>
+
+    </rect>
     
     <clipPath id="r28">
     <rect
@@ -997,6 +1753,33 @@ sahil@github: ~$ ./portrait.sh
         
     </g>
     
+    <rect
+    y="239.6"
+    width="4.7"
+    height="5.2"
+    fill="#22d3ee"
+    opacity="0">
+
+    <animate
+    attributeName="x"
+    from="20"
+    to="913.0"
+    begin="0.504s"
+    dur="0.04s"
+    fill="freeze"/>
+
+    <set
+    attributeName="opacity"
+    to="0.85"
+    begin="0.504s"/>
+
+    <set
+    attributeName="opacity"
+    to="0"
+    begin="0.539s"/>
+
+    </rect>
+    
     <clipPath id="r29">
     <rect
     x="20"
@@ -1028,6 +1811,33 @@ sahil@github: ~$ ./portrait.sh
         </text>
         
     </g>
+    
+    <rect
+    y="246.8"
+    width="4.7"
+    height="5.2"
+    fill="#22d3ee"
+    opacity="0">
+
+    <animate
+    attributeName="x"
+    from="20"
+    to="913.0"
+    begin="0.522s"
+    dur="0.04s"
+    fill="freeze"/>
+
+    <set
+    attributeName="opacity"
+    to="0.85"
+    begin="0.522s"/>
+
+    <set
+    attributeName="opacity"
+    to="0"
+    begin="0.557s"/>
+
+    </rect>
     
     <clipPath id="r30">
     <rect
@@ -1061,6 +1871,33 @@ sahil@github: ~$ ./portrait.sh
         
     </g>
     
+    <rect
+    y="254.0"
+    width="4.7"
+    height="5.2"
+    fill="#22d3ee"
+    opacity="0">
+
+    <animate
+    attributeName="x"
+    from="20"
+    to="913.0"
+    begin="0.540s"
+    dur="0.04s"
+    fill="freeze"/>
+
+    <set
+    attributeName="opacity"
+    to="0.85"
+    begin="0.540s"/>
+
+    <set
+    attributeName="opacity"
+    to="0"
+    begin="0.575s"/>
+
+    </rect>
+    
     <clipPath id="r31">
     <rect
     x="20"
@@ -1092,6 +1929,33 @@ sahil@github: ~$ ./portrait.sh
         </text>
         
     </g>
+    
+    <rect
+    y="261.2"
+    width="4.7"
+    height="5.2"
+    fill="#22d3ee"
+    opacity="0">
+
+    <animate
+    attributeName="x"
+    from="20"
+    to="913.0"
+    begin="0.558s"
+    dur="0.04s"
+    fill="freeze"/>
+
+    <set
+    attributeName="opacity"
+    to="0.85"
+    begin="0.558s"/>
+
+    <set
+    attributeName="opacity"
+    to="0"
+    begin="0.593s"/>
+
+    </rect>
     
     <clipPath id="r32">
     <rect
@@ -1125,6 +1989,33 @@ sahil@github: ~$ ./portrait.sh
         
     </g>
     
+    <rect
+    y="268.4"
+    width="4.7"
+    height="5.2"
+    fill="#22d3ee"
+    opacity="0">
+
+    <animate
+    attributeName="x"
+    from="20"
+    to="913.0"
+    begin="0.576s"
+    dur="0.04s"
+    fill="freeze"/>
+
+    <set
+    attributeName="opacity"
+    to="0.85"
+    begin="0.576s"/>
+
+    <set
+    attributeName="opacity"
+    to="0"
+    begin="0.611s"/>
+
+    </rect>
+    
     <clipPath id="r33">
     <rect
     x="20"
@@ -1156,6 +2047,33 @@ sahil@github: ~$ ./portrait.sh
         </text>
         
     </g>
+    
+    <rect
+    y="275.6"
+    width="4.7"
+    height="5.2"
+    fill="#22d3ee"
+    opacity="0">
+
+    <animate
+    attributeName="x"
+    from="20"
+    to="913.0"
+    begin="0.594s"
+    dur="0.04s"
+    fill="freeze"/>
+
+    <set
+    attributeName="opacity"
+    to="0.85"
+    begin="0.594s"/>
+
+    <set
+    attributeName="opacity"
+    to="0"
+    begin="0.629s"/>
+
+    </rect>
     
     <clipPath id="r34">
     <rect
@@ -1189,6 +2107,33 @@ sahil@github: ~$ ./portrait.sh
         
     </g>
     
+    <rect
+    y="282.8"
+    width="4.7"
+    height="5.2"
+    fill="#22d3ee"
+    opacity="0">
+
+    <animate
+    attributeName="x"
+    from="20"
+    to="913.0"
+    begin="0.612s"
+    dur="0.04s"
+    fill="freeze"/>
+
+    <set
+    attributeName="opacity"
+    to="0.85"
+    begin="0.612s"/>
+
+    <set
+    attributeName="opacity"
+    to="0"
+    begin="0.647s"/>
+
+    </rect>
+    
     <clipPath id="r35">
     <rect
     x="20"
@@ -1220,6 +2165,33 @@ sahil@github: ~$ ./portrait.sh
         </text>
         
     </g>
+    
+    <rect
+    y="290.0"
+    width="4.7"
+    height="5.2"
+    fill="#22d3ee"
+    opacity="0">
+
+    <animate
+    attributeName="x"
+    from="20"
+    to="913.0"
+    begin="0.630s"
+    dur="0.04s"
+    fill="freeze"/>
+
+    <set
+    attributeName="opacity"
+    to="0.85"
+    begin="0.630s"/>
+
+    <set
+    attributeName="opacity"
+    to="0"
+    begin="0.665s"/>
+
+    </rect>
     
     <clipPath id="r36">
     <rect
@@ -1253,6 +2225,33 @@ sahil@github: ~$ ./portrait.sh
         
     </g>
     
+    <rect
+    y="297.2"
+    width="4.7"
+    height="5.2"
+    fill="#22d3ee"
+    opacity="0">
+
+    <animate
+    attributeName="x"
+    from="20"
+    to="913.0"
+    begin="0.648s"
+    dur="0.04s"
+    fill="freeze"/>
+
+    <set
+    attributeName="opacity"
+    to="0.85"
+    begin="0.648s"/>
+
+    <set
+    attributeName="opacity"
+    to="0"
+    begin="0.683s"/>
+
+    </rect>
+    
     <clipPath id="r37">
     <rect
     x="20"
@@ -1284,6 +2283,33 @@ sahil@github: ~$ ./portrait.sh
         </text>
         
     </g>
+    
+    <rect
+    y="304.4"
+    width="4.7"
+    height="5.2"
+    fill="#22d3ee"
+    opacity="0">
+
+    <animate
+    attributeName="x"
+    from="20"
+    to="913.0"
+    begin="0.666s"
+    dur="0.04s"
+    fill="freeze"/>
+
+    <set
+    attributeName="opacity"
+    to="0.85"
+    begin="0.666s"/>
+
+    <set
+    attributeName="opacity"
+    to="0"
+    begin="0.701s"/>
+
+    </rect>
     
     <clipPath id="r38">
     <rect
@@ -1317,6 +2343,33 @@ sahil@github: ~$ ./portrait.sh
         
     </g>
     
+    <rect
+    y="311.6"
+    width="4.7"
+    height="5.2"
+    fill="#22d3ee"
+    opacity="0">
+
+    <animate
+    attributeName="x"
+    from="20"
+    to="913.0"
+    begin="0.684s"
+    dur="0.04s"
+    fill="freeze"/>
+
+    <set
+    attributeName="opacity"
+    to="0.85"
+    begin="0.684s"/>
+
+    <set
+    attributeName="opacity"
+    to="0"
+    begin="0.719s"/>
+
+    </rect>
+    
     <clipPath id="r39">
     <rect
     x="20"
@@ -1348,6 +2401,33 @@ sahil@github: ~$ ./portrait.sh
         </text>
         
     </g>
+    
+    <rect
+    y="318.8"
+    width="4.7"
+    height="5.2"
+    fill="#22d3ee"
+    opacity="0">
+
+    <animate
+    attributeName="x"
+    from="20"
+    to="913.0"
+    begin="0.702s"
+    dur="0.04s"
+    fill="freeze"/>
+
+    <set
+    attributeName="opacity"
+    to="0.85"
+    begin="0.702s"/>
+
+    <set
+    attributeName="opacity"
+    to="0"
+    begin="0.737s"/>
+
+    </rect>
     
     <clipPath id="r40">
     <rect
@@ -1381,6 +2461,33 @@ sahil@github: ~$ ./portrait.sh
         
     </g>
     
+    <rect
+    y="326.0"
+    width="4.7"
+    height="5.2"
+    fill="#22d3ee"
+    opacity="0">
+
+    <animate
+    attributeName="x"
+    from="20"
+    to="913.0"
+    begin="0.720s"
+    dur="0.04s"
+    fill="freeze"/>
+
+    <set
+    attributeName="opacity"
+    to="0.85"
+    begin="0.720s"/>
+
+    <set
+    attributeName="opacity"
+    to="0"
+    begin="0.755s"/>
+
+    </rect>
+    
     <clipPath id="r41">
     <rect
     x="20"
@@ -1412,6 +2519,33 @@ sahil@github: ~$ ./portrait.sh
         </text>
         
     </g>
+    
+    <rect
+    y="333.2"
+    width="4.7"
+    height="5.2"
+    fill="#22d3ee"
+    opacity="0">
+
+    <animate
+    attributeName="x"
+    from="20"
+    to="913.0"
+    begin="0.738s"
+    dur="0.04s"
+    fill="freeze"/>
+
+    <set
+    attributeName="opacity"
+    to="0.85"
+    begin="0.738s"/>
+
+    <set
+    attributeName="opacity"
+    to="0"
+    begin="0.773s"/>
+
+    </rect>
     
     <clipPath id="r42">
     <rect
@@ -1445,6 +2579,33 @@ sahil@github: ~$ ./portrait.sh
         
     </g>
     
+    <rect
+    y="340.4"
+    width="4.7"
+    height="5.2"
+    fill="#22d3ee"
+    opacity="0">
+
+    <animate
+    attributeName="x"
+    from="20"
+    to="913.0"
+    begin="0.756s"
+    dur="0.04s"
+    fill="freeze"/>
+
+    <set
+    attributeName="opacity"
+    to="0.85"
+    begin="0.756s"/>
+
+    <set
+    attributeName="opacity"
+    to="0"
+    begin="0.791s"/>
+
+    </rect>
+    
     <clipPath id="r43">
     <rect
     x="20"
@@ -1476,6 +2637,33 @@ sahil@github: ~$ ./portrait.sh
         </text>
         
     </g>
+    
+    <rect
+    y="347.6"
+    width="4.7"
+    height="5.2"
+    fill="#22d3ee"
+    opacity="0">
+
+    <animate
+    attributeName="x"
+    from="20"
+    to="913.0"
+    begin="0.774s"
+    dur="0.04s"
+    fill="freeze"/>
+
+    <set
+    attributeName="opacity"
+    to="0.85"
+    begin="0.774s"/>
+
+    <set
+    attributeName="opacity"
+    to="0"
+    begin="0.809s"/>
+
+    </rect>
     
     <clipPath id="r44">
     <rect
@@ -1509,6 +2697,33 @@ sahil@github: ~$ ./portrait.sh
         
     </g>
     
+    <rect
+    y="354.8"
+    width="4.7"
+    height="5.2"
+    fill="#22d3ee"
+    opacity="0">
+
+    <animate
+    attributeName="x"
+    from="20"
+    to="913.0"
+    begin="0.792s"
+    dur="0.04s"
+    fill="freeze"/>
+
+    <set
+    attributeName="opacity"
+    to="0.85"
+    begin="0.792s"/>
+
+    <set
+    attributeName="opacity"
+    to="0"
+    begin="0.827s"/>
+
+    </rect>
+    
     <clipPath id="r45">
     <rect
     x="20"
@@ -1540,6 +2755,33 @@ sahil@github: ~$ ./portrait.sh
         </text>
         
     </g>
+    
+    <rect
+    y="362.0"
+    width="4.7"
+    height="5.2"
+    fill="#22d3ee"
+    opacity="0">
+
+    <animate
+    attributeName="x"
+    from="20"
+    to="913.0"
+    begin="0.810s"
+    dur="0.04s"
+    fill="freeze"/>
+
+    <set
+    attributeName="opacity"
+    to="0.85"
+    begin="0.810s"/>
+
+    <set
+    attributeName="opacity"
+    to="0"
+    begin="0.845s"/>
+
+    </rect>
     
     <clipPath id="r46">
     <rect
@@ -1573,6 +2815,33 @@ sahil@github: ~$ ./portrait.sh
         
     </g>
     
+    <rect
+    y="369.2"
+    width="4.7"
+    height="5.2"
+    fill="#22d3ee"
+    opacity="0">
+
+    <animate
+    attributeName="x"
+    from="20"
+    to="913.0"
+    begin="0.828s"
+    dur="0.04s"
+    fill="freeze"/>
+
+    <set
+    attributeName="opacity"
+    to="0.85"
+    begin="0.828s"/>
+
+    <set
+    attributeName="opacity"
+    to="0"
+    begin="0.863s"/>
+
+    </rect>
+    
     <clipPath id="r47">
     <rect
     x="20"
@@ -1604,6 +2873,33 @@ sahil@github: ~$ ./portrait.sh
         </text>
         
     </g>
+    
+    <rect
+    y="376.4"
+    width="4.7"
+    height="5.2"
+    fill="#22d3ee"
+    opacity="0">
+
+    <animate
+    attributeName="x"
+    from="20"
+    to="913.0"
+    begin="0.846s"
+    dur="0.04s"
+    fill="freeze"/>
+
+    <set
+    attributeName="opacity"
+    to="0.85"
+    begin="0.846s"/>
+
+    <set
+    attributeName="opacity"
+    to="0"
+    begin="0.881s"/>
+
+    </rect>
     
     <clipPath id="r48">
     <rect
@@ -1637,6 +2933,33 @@ sahil@github: ~$ ./portrait.sh
         
     </g>
     
+    <rect
+    y="383.6"
+    width="4.7"
+    height="5.2"
+    fill="#22d3ee"
+    opacity="0">
+
+    <animate
+    attributeName="x"
+    from="20"
+    to="913.0"
+    begin="0.864s"
+    dur="0.04s"
+    fill="freeze"/>
+
+    <set
+    attributeName="opacity"
+    to="0.85"
+    begin="0.864s"/>
+
+    <set
+    attributeName="opacity"
+    to="0"
+    begin="0.899s"/>
+
+    </rect>
+    
     <clipPath id="r49">
     <rect
     x="20"
@@ -1668,6 +2991,33 @@ sahil@github: ~$ ./portrait.sh
         </text>
         
     </g>
+    
+    <rect
+    y="390.8"
+    width="4.7"
+    height="5.2"
+    fill="#22d3ee"
+    opacity="0">
+
+    <animate
+    attributeName="x"
+    from="20"
+    to="913.0"
+    begin="0.882s"
+    dur="0.04s"
+    fill="freeze"/>
+
+    <set
+    attributeName="opacity"
+    to="0.85"
+    begin="0.882s"/>
+
+    <set
+    attributeName="opacity"
+    to="0"
+    begin="0.917s"/>
+
+    </rect>
     
     <clipPath id="r50">
     <rect
@@ -1701,6 +3051,33 @@ sahil@github: ~$ ./portrait.sh
         
     </g>
     
+    <rect
+    y="398.0"
+    width="4.7"
+    height="5.2"
+    fill="#22d3ee"
+    opacity="0">
+
+    <animate
+    attributeName="x"
+    from="20"
+    to="913.0"
+    begin="0.900s"
+    dur="0.04s"
+    fill="freeze"/>
+
+    <set
+    attributeName="opacity"
+    to="0.85"
+    begin="0.900s"/>
+
+    <set
+    attributeName="opacity"
+    to="0"
+    begin="0.935s"/>
+
+    </rect>
+    
     <clipPath id="r51">
     <rect
     x="20"
@@ -1732,6 +3109,33 @@ sahil@github: ~$ ./portrait.sh
         </text>
         
     </g>
+    
+    <rect
+    y="405.2"
+    width="4.7"
+    height="5.2"
+    fill="#22d3ee"
+    opacity="0">
+
+    <animate
+    attributeName="x"
+    from="20"
+    to="913.0"
+    begin="0.918s"
+    dur="0.04s"
+    fill="freeze"/>
+
+    <set
+    attributeName="opacity"
+    to="0.85"
+    begin="0.918s"/>
+
+    <set
+    attributeName="opacity"
+    to="0"
+    begin="0.953s"/>
+
+    </rect>
     
     <clipPath id="r52">
     <rect
@@ -1765,6 +3169,33 @@ sahil@github: ~$ ./portrait.sh
         
     </g>
     
+    <rect
+    y="412.4"
+    width="4.7"
+    height="5.2"
+    fill="#22d3ee"
+    opacity="0">
+
+    <animate
+    attributeName="x"
+    from="20"
+    to="913.0"
+    begin="0.936s"
+    dur="0.04s"
+    fill="freeze"/>
+
+    <set
+    attributeName="opacity"
+    to="0.85"
+    begin="0.936s"/>
+
+    <set
+    attributeName="opacity"
+    to="0"
+    begin="0.971s"/>
+
+    </rect>
+    
     <clipPath id="r53">
     <rect
     x="20"
@@ -1796,6 +3227,33 @@ sahil@github: ~$ ./portrait.sh
         </text>
         
     </g>
+    
+    <rect
+    y="419.6"
+    width="4.7"
+    height="5.2"
+    fill="#22d3ee"
+    opacity="0">
+
+    <animate
+    attributeName="x"
+    from="20"
+    to="913.0"
+    begin="0.954s"
+    dur="0.04s"
+    fill="freeze"/>
+
+    <set
+    attributeName="opacity"
+    to="0.85"
+    begin="0.954s"/>
+
+    <set
+    attributeName="opacity"
+    to="0"
+    begin="0.989s"/>
+
+    </rect>
     
     <clipPath id="r54">
     <rect
@@ -1829,6 +3287,33 @@ sahil@github: ~$ ./portrait.sh
         
     </g>
     
+    <rect
+    y="426.8"
+    width="4.7"
+    height="5.2"
+    fill="#22d3ee"
+    opacity="0">
+
+    <animate
+    attributeName="x"
+    from="20"
+    to="913.0"
+    begin="0.972s"
+    dur="0.04s"
+    fill="freeze"/>
+
+    <set
+    attributeName="opacity"
+    to="0.85"
+    begin="0.972s"/>
+
+    <set
+    attributeName="opacity"
+    to="0"
+    begin="1.007s"/>
+
+    </rect>
+    
     <clipPath id="r55">
     <rect
     x="20"
@@ -1860,6 +3345,33 @@ sahil@github: ~$ ./portrait.sh
         </text>
         
     </g>
+    
+    <rect
+    y="434.0"
+    width="4.7"
+    height="5.2"
+    fill="#22d3ee"
+    opacity="0">
+
+    <animate
+    attributeName="x"
+    from="20"
+    to="913.0"
+    begin="0.990s"
+    dur="0.04s"
+    fill="freeze"/>
+
+    <set
+    attributeName="opacity"
+    to="0.85"
+    begin="0.990s"/>
+
+    <set
+    attributeName="opacity"
+    to="0"
+    begin="1.025s"/>
+
+    </rect>
     
     <clipPath id="r56">
     <rect
@@ -1893,6 +3405,33 @@ sahil@github: ~$ ./portrait.sh
         
     </g>
     
+    <rect
+    y="441.2"
+    width="4.7"
+    height="5.2"
+    fill="#22d3ee"
+    opacity="0">
+
+    <animate
+    attributeName="x"
+    from="20"
+    to="913.0"
+    begin="1.008s"
+    dur="0.04s"
+    fill="freeze"/>
+
+    <set
+    attributeName="opacity"
+    to="0.85"
+    begin="1.008s"/>
+
+    <set
+    attributeName="opacity"
+    to="0"
+    begin="1.043s"/>
+
+    </rect>
+    
     <clipPath id="r57">
     <rect
     x="20"
@@ -1924,6 +3463,33 @@ sahil@github: ~$ ./portrait.sh
         </text>
         
     </g>
+    
+    <rect
+    y="448.4"
+    width="4.7"
+    height="5.2"
+    fill="#22d3ee"
+    opacity="0">
+
+    <animate
+    attributeName="x"
+    from="20"
+    to="913.0"
+    begin="1.026s"
+    dur="0.04s"
+    fill="freeze"/>
+
+    <set
+    attributeName="opacity"
+    to="0.85"
+    begin="1.026s"/>
+
+    <set
+    attributeName="opacity"
+    to="0"
+    begin="1.061s"/>
+
+    </rect>
     
     <clipPath id="r58">
     <rect
@@ -1957,6 +3523,33 @@ sahil@github: ~$ ./portrait.sh
         
     </g>
     
+    <rect
+    y="455.6"
+    width="4.7"
+    height="5.2"
+    fill="#22d3ee"
+    opacity="0">
+
+    <animate
+    attributeName="x"
+    from="20"
+    to="913.0"
+    begin="1.044s"
+    dur="0.04s"
+    fill="freeze"/>
+
+    <set
+    attributeName="opacity"
+    to="0.85"
+    begin="1.044s"/>
+
+    <set
+    attributeName="opacity"
+    to="0"
+    begin="1.079s"/>
+
+    </rect>
+    
     <clipPath id="r59">
     <rect
     x="20"
@@ -1988,6 +3581,33 @@ sahil@github: ~$ ./portrait.sh
         </text>
         
     </g>
+    
+    <rect
+    y="462.8"
+    width="4.7"
+    height="5.2"
+    fill="#22d3ee"
+    opacity="0">
+
+    <animate
+    attributeName="x"
+    from="20"
+    to="913.0"
+    begin="1.062s"
+    dur="0.04s"
+    fill="freeze"/>
+
+    <set
+    attributeName="opacity"
+    to="0.85"
+    begin="1.062s"/>
+
+    <set
+    attributeName="opacity"
+    to="0"
+    begin="1.097s"/>
+
+    </rect>
     
     <clipPath id="r60">
     <rect
@@ -2021,6 +3641,33 @@ sahil@github: ~$ ./portrait.sh
         
     </g>
     
+    <rect
+    y="470.0"
+    width="4.7"
+    height="5.2"
+    fill="#22d3ee"
+    opacity="0">
+
+    <animate
+    attributeName="x"
+    from="20"
+    to="913.0"
+    begin="1.080s"
+    dur="0.04s"
+    fill="freeze"/>
+
+    <set
+    attributeName="opacity"
+    to="0.85"
+    begin="1.080s"/>
+
+    <set
+    attributeName="opacity"
+    to="0"
+    begin="1.115s"/>
+
+    </rect>
+    
     <clipPath id="r61">
     <rect
     x="20"
@@ -2052,6 +3699,33 @@ sahil@github: ~$ ./portrait.sh
         </text>
         
     </g>
+    
+    <rect
+    y="477.2"
+    width="4.7"
+    height="5.2"
+    fill="#22d3ee"
+    opacity="0">
+
+    <animate
+    attributeName="x"
+    from="20"
+    to="913.0"
+    begin="1.098s"
+    dur="0.04s"
+    fill="freeze"/>
+
+    <set
+    attributeName="opacity"
+    to="0.85"
+    begin="1.098s"/>
+
+    <set
+    attributeName="opacity"
+    to="0"
+    begin="1.133s"/>
+
+    </rect>
     
     <clipPath id="r62">
     <rect
@@ -2085,6 +3759,33 @@ sahil@github: ~$ ./portrait.sh
         
     </g>
     
+    <rect
+    y="484.4"
+    width="4.7"
+    height="5.2"
+    fill="#22d3ee"
+    opacity="0">
+
+    <animate
+    attributeName="x"
+    from="20"
+    to="913.0"
+    begin="1.116s"
+    dur="0.04s"
+    fill="freeze"/>
+
+    <set
+    attributeName="opacity"
+    to="0.85"
+    begin="1.116s"/>
+
+    <set
+    attributeName="opacity"
+    to="0"
+    begin="1.151s"/>
+
+    </rect>
+    
     <clipPath id="r63">
     <rect
     x="20"
@@ -2116,6 +3817,33 @@ sahil@github: ~$ ./portrait.sh
         </text>
         
     </g>
+    
+    <rect
+    y="491.6"
+    width="4.7"
+    height="5.2"
+    fill="#22d3ee"
+    opacity="0">
+
+    <animate
+    attributeName="x"
+    from="20"
+    to="913.0"
+    begin="1.134s"
+    dur="0.04s"
+    fill="freeze"/>
+
+    <set
+    attributeName="opacity"
+    to="0.85"
+    begin="1.134s"/>
+
+    <set
+    attributeName="opacity"
+    to="0"
+    begin="1.169s"/>
+
+    </rect>
     
     <clipPath id="r64">
     <rect
@@ -2149,6 +3877,33 @@ sahil@github: ~$ ./portrait.sh
         
     </g>
     
+    <rect
+    y="498.8"
+    width="4.7"
+    height="5.2"
+    fill="#22d3ee"
+    opacity="0">
+
+    <animate
+    attributeName="x"
+    from="20"
+    to="913.0"
+    begin="1.152s"
+    dur="0.04s"
+    fill="freeze"/>
+
+    <set
+    attributeName="opacity"
+    to="0.85"
+    begin="1.152s"/>
+
+    <set
+    attributeName="opacity"
+    to="0"
+    begin="1.187s"/>
+
+    </rect>
+    
     <clipPath id="r65">
     <rect
     x="20"
@@ -2180,6 +3935,33 @@ sahil@github: ~$ ./portrait.sh
         </text>
         
     </g>
+    
+    <rect
+    y="506.0"
+    width="4.7"
+    height="5.2"
+    fill="#22d3ee"
+    opacity="0">
+
+    <animate
+    attributeName="x"
+    from="20"
+    to="913.0"
+    begin="1.170s"
+    dur="0.04s"
+    fill="freeze"/>
+
+    <set
+    attributeName="opacity"
+    to="0.85"
+    begin="1.170s"/>
+
+    <set
+    attributeName="opacity"
+    to="0"
+    begin="1.205s"/>
+
+    </rect>
     
     <clipPath id="r66">
     <rect
@@ -2213,6 +3995,33 @@ sahil@github: ~$ ./portrait.sh
         
     </g>
     
+    <rect
+    y="513.2"
+    width="4.7"
+    height="5.2"
+    fill="#22d3ee"
+    opacity="0">
+
+    <animate
+    attributeName="x"
+    from="20"
+    to="913.0"
+    begin="1.188s"
+    dur="0.04s"
+    fill="freeze"/>
+
+    <set
+    attributeName="opacity"
+    to="0.85"
+    begin="1.188s"/>
+
+    <set
+    attributeName="opacity"
+    to="0"
+    begin="1.223s"/>
+
+    </rect>
+    
     <clipPath id="r67">
     <rect
     x="20"
@@ -2244,6 +4053,33 @@ sahil@github: ~$ ./portrait.sh
         </text>
         
     </g>
+    
+    <rect
+    y="520.4"
+    width="4.7"
+    height="5.2"
+    fill="#22d3ee"
+    opacity="0">
+
+    <animate
+    attributeName="x"
+    from="20"
+    to="913.0"
+    begin="1.206s"
+    dur="0.04s"
+    fill="freeze"/>
+
+    <set
+    attributeName="opacity"
+    to="0.85"
+    begin="1.206s"/>
+
+    <set
+    attributeName="opacity"
+    to="0"
+    begin="1.241s"/>
+
+    </rect>
     
     <clipPath id="r68">
     <rect
@@ -2277,6 +4113,33 @@ sahil@github: ~$ ./portrait.sh
         
     </g>
     
+    <rect
+    y="527.6"
+    width="4.7"
+    height="5.2"
+    fill="#22d3ee"
+    opacity="0">
+
+    <animate
+    attributeName="x"
+    from="20"
+    to="913.0"
+    begin="1.224s"
+    dur="0.04s"
+    fill="freeze"/>
+
+    <set
+    attributeName="opacity"
+    to="0.85"
+    begin="1.224s"/>
+
+    <set
+    attributeName="opacity"
+    to="0"
+    begin="1.259s"/>
+
+    </rect>
+    
     <clipPath id="r69">
     <rect
     x="20"
@@ -2308,6 +4171,33 @@ sahil@github: ~$ ./portrait.sh
         </text>
         
     </g>
+    
+    <rect
+    y="534.8"
+    width="4.7"
+    height="5.2"
+    fill="#22d3ee"
+    opacity="0">
+
+    <animate
+    attributeName="x"
+    from="20"
+    to="913.0"
+    begin="1.242s"
+    dur="0.04s"
+    fill="freeze"/>
+
+    <set
+    attributeName="opacity"
+    to="0.85"
+    begin="1.242s"/>
+
+    <set
+    attributeName="opacity"
+    to="0"
+    begin="1.277s"/>
+
+    </rect>
     
     <clipPath id="r70">
     <rect
@@ -2341,6 +4231,33 @@ sahil@github: ~$ ./portrait.sh
         
     </g>
     
+    <rect
+    y="542.0"
+    width="4.7"
+    height="5.2"
+    fill="#22d3ee"
+    opacity="0">
+
+    <animate
+    attributeName="x"
+    from="20"
+    to="913.0"
+    begin="1.260s"
+    dur="0.04s"
+    fill="freeze"/>
+
+    <set
+    attributeName="opacity"
+    to="0.85"
+    begin="1.260s"/>
+
+    <set
+    attributeName="opacity"
+    to="0"
+    begin="1.295s"/>
+
+    </rect>
+    
     <clipPath id="r71">
     <rect
     x="20"
@@ -2372,6 +4289,33 @@ sahil@github: ~$ ./portrait.sh
         </text>
         
     </g>
+    
+    <rect
+    y="549.2"
+    width="4.7"
+    height="5.2"
+    fill="#22d3ee"
+    opacity="0">
+
+    <animate
+    attributeName="x"
+    from="20"
+    to="913.0"
+    begin="1.278s"
+    dur="0.04s"
+    fill="freeze"/>
+
+    <set
+    attributeName="opacity"
+    to="0.85"
+    begin="1.278s"/>
+
+    <set
+    attributeName="opacity"
+    to="0"
+    begin="1.313s"/>
+
+    </rect>
     
     <clipPath id="r72">
     <rect
@@ -2405,6 +4349,33 @@ sahil@github: ~$ ./portrait.sh
         
     </g>
     
+    <rect
+    y="556.4"
+    width="4.7"
+    height="5.2"
+    fill="#22d3ee"
+    opacity="0">
+
+    <animate
+    attributeName="x"
+    from="20"
+    to="913.0"
+    begin="1.296s"
+    dur="0.04s"
+    fill="freeze"/>
+
+    <set
+    attributeName="opacity"
+    to="0.85"
+    begin="1.296s"/>
+
+    <set
+    attributeName="opacity"
+    to="0"
+    begin="1.331s"/>
+
+    </rect>
+    
     <clipPath id="r73">
     <rect
     x="20"
@@ -2436,6 +4407,33 @@ sahil@github: ~$ ./portrait.sh
         </text>
         
     </g>
+    
+    <rect
+    y="563.6"
+    width="4.7"
+    height="5.2"
+    fill="#22d3ee"
+    opacity="0">
+
+    <animate
+    attributeName="x"
+    from="20"
+    to="913.0"
+    begin="1.314s"
+    dur="0.04s"
+    fill="freeze"/>
+
+    <set
+    attributeName="opacity"
+    to="0.85"
+    begin="1.314s"/>
+
+    <set
+    attributeName="opacity"
+    to="0"
+    begin="1.349s"/>
+
+    </rect>
     
     <clipPath id="r74">
     <rect
@@ -2469,6 +4467,33 @@ sahil@github: ~$ ./portrait.sh
         
     </g>
     
+    <rect
+    y="570.8"
+    width="4.7"
+    height="5.2"
+    fill="#22d3ee"
+    opacity="0">
+
+    <animate
+    attributeName="x"
+    from="20"
+    to="913.0"
+    begin="1.332s"
+    dur="0.04s"
+    fill="freeze"/>
+
+    <set
+    attributeName="opacity"
+    to="0.85"
+    begin="1.332s"/>
+
+    <set
+    attributeName="opacity"
+    to="0"
+    begin="1.367s"/>
+
+    </rect>
+    
     <clipPath id="r75">
     <rect
     x="20"
@@ -2500,6 +4525,33 @@ sahil@github: ~$ ./portrait.sh
         </text>
         
     </g>
+    
+    <rect
+    y="578.0"
+    width="4.7"
+    height="5.2"
+    fill="#22d3ee"
+    opacity="0">
+
+    <animate
+    attributeName="x"
+    from="20"
+    to="913.0"
+    begin="1.350s"
+    dur="0.04s"
+    fill="freeze"/>
+
+    <set
+    attributeName="opacity"
+    to="0.85"
+    begin="1.350s"/>
+
+    <set
+    attributeName="opacity"
+    to="0"
+    begin="1.385s"/>
+
+    </rect>
     
     <clipPath id="r76">
     <rect
@@ -2533,6 +4585,33 @@ sahil@github: ~$ ./portrait.sh
         
     </g>
     
+    <rect
+    y="585.2"
+    width="4.7"
+    height="5.2"
+    fill="#22d3ee"
+    opacity="0">
+
+    <animate
+    attributeName="x"
+    from="20"
+    to="913.0"
+    begin="1.368s"
+    dur="0.04s"
+    fill="freeze"/>
+
+    <set
+    attributeName="opacity"
+    to="0.85"
+    begin="1.368s"/>
+
+    <set
+    attributeName="opacity"
+    to="0"
+    begin="1.403s"/>
+
+    </rect>
+    
     <clipPath id="r77">
     <rect
     x="20"
@@ -2564,6 +4643,33 @@ sahil@github: ~$ ./portrait.sh
         </text>
         
     </g>
+    
+    <rect
+    y="592.4"
+    width="4.7"
+    height="5.2"
+    fill="#22d3ee"
+    opacity="0">
+
+    <animate
+    attributeName="x"
+    from="20"
+    to="913.0"
+    begin="1.386s"
+    dur="0.04s"
+    fill="freeze"/>
+
+    <set
+    attributeName="opacity"
+    to="0.85"
+    begin="1.386s"/>
+
+    <set
+    attributeName="opacity"
+    to="0"
+    begin="1.421s"/>
+
+    </rect>
     
     <clipPath id="r78">
     <rect
@@ -2597,6 +4703,33 @@ sahil@github: ~$ ./portrait.sh
         
     </g>
     
+    <rect
+    y="599.6"
+    width="4.7"
+    height="5.2"
+    fill="#22d3ee"
+    opacity="0">
+
+    <animate
+    attributeName="x"
+    from="20"
+    to="913.0"
+    begin="1.404s"
+    dur="0.04s"
+    fill="freeze"/>
+
+    <set
+    attributeName="opacity"
+    to="0.85"
+    begin="1.404s"/>
+
+    <set
+    attributeName="opacity"
+    to="0"
+    begin="1.439s"/>
+
+    </rect>
+    
     <clipPath id="r79">
     <rect
     x="20"
@@ -2628,6 +4761,33 @@ sahil@github: ~$ ./portrait.sh
         </text>
         
     </g>
+    
+    <rect
+    y="606.8"
+    width="4.7"
+    height="5.2"
+    fill="#22d3ee"
+    opacity="0">
+
+    <animate
+    attributeName="x"
+    from="20"
+    to="913.0"
+    begin="1.422s"
+    dur="0.04s"
+    fill="freeze"/>
+
+    <set
+    attributeName="opacity"
+    to="0.85"
+    begin="1.422s"/>
+
+    <set
+    attributeName="opacity"
+    to="0"
+    begin="1.457s"/>
+
+    </rect>
     
     <clipPath id="r80">
     <rect
@@ -2661,6 +4821,33 @@ sahil@github: ~$ ./portrait.sh
         
     </g>
     
+    <rect
+    y="614.0"
+    width="4.7"
+    height="5.2"
+    fill="#22d3ee"
+    opacity="0">
+
+    <animate
+    attributeName="x"
+    from="20"
+    to="913.0"
+    begin="1.440s"
+    dur="0.04s"
+    fill="freeze"/>
+
+    <set
+    attributeName="opacity"
+    to="0.85"
+    begin="1.440s"/>
+
+    <set
+    attributeName="opacity"
+    to="0"
+    begin="1.475s"/>
+
+    </rect>
+    
     <clipPath id="r81">
     <rect
     x="20"
@@ -2692,6 +4879,33 @@ sahil@github: ~$ ./portrait.sh
         </text>
         
     </g>
+    
+    <rect
+    y="621.2"
+    width="4.7"
+    height="5.2"
+    fill="#22d3ee"
+    opacity="0">
+
+    <animate
+    attributeName="x"
+    from="20"
+    to="913.0"
+    begin="1.458s"
+    dur="0.04s"
+    fill="freeze"/>
+
+    <set
+    attributeName="opacity"
+    to="0.85"
+    begin="1.458s"/>
+
+    <set
+    attributeName="opacity"
+    to="0"
+    begin="1.493s"/>
+
+    </rect>
     
     <clipPath id="r82">
     <rect
@@ -2725,6 +4939,33 @@ sahil@github: ~$ ./portrait.sh
         
     </g>
     
+    <rect
+    y="628.4"
+    width="4.7"
+    height="5.2"
+    fill="#22d3ee"
+    opacity="0">
+
+    <animate
+    attributeName="x"
+    from="20"
+    to="913.0"
+    begin="1.476s"
+    dur="0.04s"
+    fill="freeze"/>
+
+    <set
+    attributeName="opacity"
+    to="0.85"
+    begin="1.476s"/>
+
+    <set
+    attributeName="opacity"
+    to="0"
+    begin="1.511s"/>
+
+    </rect>
+    
     <clipPath id="r83">
     <rect
     x="20"
@@ -2756,6 +4997,33 @@ sahil@github: ~$ ./portrait.sh
         </text>
         
     </g>
+    
+    <rect
+    y="635.6"
+    width="4.7"
+    height="5.2"
+    fill="#22d3ee"
+    opacity="0">
+
+    <animate
+    attributeName="x"
+    from="20"
+    to="913.0"
+    begin="1.494s"
+    dur="0.04s"
+    fill="freeze"/>
+
+    <set
+    attributeName="opacity"
+    to="0.85"
+    begin="1.494s"/>
+
+    <set
+    attributeName="opacity"
+    to="0"
+    begin="1.529s"/>
+
+    </rect>
     
     <clipPath id="r84">
     <rect
@@ -2789,6 +5057,33 @@ sahil@github: ~$ ./portrait.sh
         
     </g>
     
+    <rect
+    y="642.8"
+    width="4.7"
+    height="5.2"
+    fill="#22d3ee"
+    opacity="0">
+
+    <animate
+    attributeName="x"
+    from="20"
+    to="913.0"
+    begin="1.512s"
+    dur="0.04s"
+    fill="freeze"/>
+
+    <set
+    attributeName="opacity"
+    to="0.85"
+    begin="1.512s"/>
+
+    <set
+    attributeName="opacity"
+    to="0"
+    begin="1.547s"/>
+
+    </rect>
+    
     <clipPath id="r85">
     <rect
     x="20"
@@ -2820,6 +5115,33 @@ sahil@github: ~$ ./portrait.sh
         </text>
         
     </g>
+    
+    <rect
+    y="650.0"
+    width="4.7"
+    height="5.2"
+    fill="#22d3ee"
+    opacity="0">
+
+    <animate
+    attributeName="x"
+    from="20"
+    to="913.0"
+    begin="1.530s"
+    dur="0.04s"
+    fill="freeze"/>
+
+    <set
+    attributeName="opacity"
+    to="0.85"
+    begin="1.530s"/>
+
+    <set
+    attributeName="opacity"
+    to="0"
+    begin="1.565s"/>
+
+    </rect>
     
     <clipPath id="r86">
     <rect
@@ -2853,6 +5175,33 @@ sahil@github: ~$ ./portrait.sh
         
     </g>
     
+    <rect
+    y="657.2"
+    width="4.7"
+    height="5.2"
+    fill="#22d3ee"
+    opacity="0">
+
+    <animate
+    attributeName="x"
+    from="20"
+    to="913.0"
+    begin="1.548s"
+    dur="0.04s"
+    fill="freeze"/>
+
+    <set
+    attributeName="opacity"
+    to="0.85"
+    begin="1.548s"/>
+
+    <set
+    attributeName="opacity"
+    to="0"
+    begin="1.583s"/>
+
+    </rect>
+    
     <clipPath id="r87">
     <rect
     x="20"
@@ -2884,6 +5233,33 @@ sahil@github: ~$ ./portrait.sh
         </text>
         
     </g>
+    
+    <rect
+    y="664.4"
+    width="4.7"
+    height="5.2"
+    fill="#22d3ee"
+    opacity="0">
+
+    <animate
+    attributeName="x"
+    from="20"
+    to="913.0"
+    begin="1.566s"
+    dur="0.04s"
+    fill="freeze"/>
+
+    <set
+    attributeName="opacity"
+    to="0.85"
+    begin="1.566s"/>
+
+    <set
+    attributeName="opacity"
+    to="0"
+    begin="1.601s"/>
+
+    </rect>
     
     <clipPath id="r88">
     <rect
@@ -2917,6 +5293,33 @@ sahil@github: ~$ ./portrait.sh
         
     </g>
     
+    <rect
+    y="671.6"
+    width="4.7"
+    height="5.2"
+    fill="#22d3ee"
+    opacity="0">
+
+    <animate
+    attributeName="x"
+    from="20"
+    to="913.0"
+    begin="1.584s"
+    dur="0.04s"
+    fill="freeze"/>
+
+    <set
+    attributeName="opacity"
+    to="0.85"
+    begin="1.584s"/>
+
+    <set
+    attributeName="opacity"
+    to="0"
+    begin="1.619s"/>
+
+    </rect>
+    
     <clipPath id="r89">
     <rect
     x="20"
@@ -2948,6 +5351,33 @@ sahil@github: ~$ ./portrait.sh
         </text>
         
     </g>
+    
+    <rect
+    y="678.8"
+    width="4.7"
+    height="5.2"
+    fill="#22d3ee"
+    opacity="0">
+
+    <animate
+    attributeName="x"
+    from="20"
+    to="913.0"
+    begin="1.602s"
+    dur="0.04s"
+    fill="freeze"/>
+
+    <set
+    attributeName="opacity"
+    to="0.85"
+    begin="1.602s"/>
+
+    <set
+    attributeName="opacity"
+    to="0"
+    begin="1.637s"/>
+
+    </rect>
     
     <clipPath id="r90">
     <rect
@@ -2981,6 +5411,33 @@ sahil@github: ~$ ./portrait.sh
         
     </g>
     
+    <rect
+    y="686.0"
+    width="4.7"
+    height="5.2"
+    fill="#22d3ee"
+    opacity="0">
+
+    <animate
+    attributeName="x"
+    from="20"
+    to="913.0"
+    begin="1.620s"
+    dur="0.04s"
+    fill="freeze"/>
+
+    <set
+    attributeName="opacity"
+    to="0.85"
+    begin="1.620s"/>
+
+    <set
+    attributeName="opacity"
+    to="0"
+    begin="1.655s"/>
+
+    </rect>
+    
     <clipPath id="r91">
     <rect
     x="20"
@@ -3012,6 +5469,33 @@ sahil@github: ~$ ./portrait.sh
         </text>
         
     </g>
+    
+    <rect
+    y="693.2"
+    width="4.7"
+    height="5.2"
+    fill="#22d3ee"
+    opacity="0">
+
+    <animate
+    attributeName="x"
+    from="20"
+    to="913.0"
+    begin="1.638s"
+    dur="0.04s"
+    fill="freeze"/>
+
+    <set
+    attributeName="opacity"
+    to="0.85"
+    begin="1.638s"/>
+
+    <set
+    attributeName="opacity"
+    to="0"
+    begin="1.673s"/>
+
+    </rect>
     
     <clipPath id="r92">
     <rect
@@ -3045,6 +5529,33 @@ sahil@github: ~$ ./portrait.sh
         
     </g>
     
+    <rect
+    y="700.4"
+    width="4.7"
+    height="5.2"
+    fill="#22d3ee"
+    opacity="0">
+
+    <animate
+    attributeName="x"
+    from="20"
+    to="913.0"
+    begin="1.656s"
+    dur="0.04s"
+    fill="freeze"/>
+
+    <set
+    attributeName="opacity"
+    to="0.85"
+    begin="1.656s"/>
+
+    <set
+    attributeName="opacity"
+    to="0"
+    begin="1.691s"/>
+
+    </rect>
+    
     <clipPath id="r93">
     <rect
     x="20"
@@ -3076,6 +5587,33 @@ sahil@github: ~$ ./portrait.sh
         </text>
         
     </g>
+    
+    <rect
+    y="707.6"
+    width="4.7"
+    height="5.2"
+    fill="#22d3ee"
+    opacity="0">
+
+    <animate
+    attributeName="x"
+    from="20"
+    to="913.0"
+    begin="1.674s"
+    dur="0.04s"
+    fill="freeze"/>
+
+    <set
+    attributeName="opacity"
+    to="0.85"
+    begin="1.674s"/>
+
+    <set
+    attributeName="opacity"
+    to="0"
+    begin="1.709s"/>
+
+    </rect>
     
     <clipPath id="r94">
     <rect
@@ -3109,6 +5647,33 @@ sahil@github: ~$ ./portrait.sh
         
     </g>
     
+    <rect
+    y="714.8"
+    width="4.7"
+    height="5.2"
+    fill="#22d3ee"
+    opacity="0">
+
+    <animate
+    attributeName="x"
+    from="20"
+    to="913.0"
+    begin="1.692s"
+    dur="0.04s"
+    fill="freeze"/>
+
+    <set
+    attributeName="opacity"
+    to="0.85"
+    begin="1.692s"/>
+
+    <set
+    attributeName="opacity"
+    to="0"
+    begin="1.727s"/>
+
+    </rect>
+    
     <clipPath id="r95">
     <rect
     x="20"
@@ -3140,6 +5705,33 @@ sahil@github: ~$ ./portrait.sh
         </text>
         
     </g>
+    
+    <rect
+    y="722.0"
+    width="4.7"
+    height="5.2"
+    fill="#22d3ee"
+    opacity="0">
+
+    <animate
+    attributeName="x"
+    from="20"
+    to="913.0"
+    begin="1.710s"
+    dur="0.04s"
+    fill="freeze"/>
+
+    <set
+    attributeName="opacity"
+    to="0.85"
+    begin="1.710s"/>
+
+    <set
+    attributeName="opacity"
+    to="0"
+    begin="1.745s"/>
+
+    </rect>
     
     <clipPath id="r96">
     <rect
@@ -3173,6 +5765,33 @@ sahil@github: ~$ ./portrait.sh
         
     </g>
     
+    <rect
+    y="729.2"
+    width="4.7"
+    height="5.2"
+    fill="#22d3ee"
+    opacity="0">
+
+    <animate
+    attributeName="x"
+    from="20"
+    to="913.0"
+    begin="1.728s"
+    dur="0.04s"
+    fill="freeze"/>
+
+    <set
+    attributeName="opacity"
+    to="0.85"
+    begin="1.728s"/>
+
+    <set
+    attributeName="opacity"
+    to="0"
+    begin="1.763s"/>
+
+    </rect>
+    
     <clipPath id="r97">
     <rect
     x="20"
@@ -3204,6 +5823,33 @@ sahil@github: ~$ ./portrait.sh
         </text>
         
     </g>
+    
+    <rect
+    y="736.4"
+    width="4.7"
+    height="5.2"
+    fill="#22d3ee"
+    opacity="0">
+
+    <animate
+    attributeName="x"
+    from="20"
+    to="913.0"
+    begin="1.746s"
+    dur="0.04s"
+    fill="freeze"/>
+
+    <set
+    attributeName="opacity"
+    to="0.85"
+    begin="1.746s"/>
+
+    <set
+    attributeName="opacity"
+    to="0"
+    begin="1.781s"/>
+
+    </rect>
     
     <clipPath id="r98">
     <rect
@@ -3237,6 +5883,33 @@ sahil@github: ~$ ./portrait.sh
         
     </g>
     
+    <rect
+    y="743.6"
+    width="4.7"
+    height="5.2"
+    fill="#22d3ee"
+    opacity="0">
+
+    <animate
+    attributeName="x"
+    from="20"
+    to="913.0"
+    begin="1.764s"
+    dur="0.04s"
+    fill="freeze"/>
+
+    <set
+    attributeName="opacity"
+    to="0.85"
+    begin="1.764s"/>
+
+    <set
+    attributeName="opacity"
+    to="0"
+    begin="1.799s"/>
+
+    </rect>
+    
     <clipPath id="r99">
     <rect
     x="20"
@@ -3268,6 +5941,33 @@ sahil@github: ~$ ./portrait.sh
         </text>
         
     </g>
+    
+    <rect
+    y="750.8"
+    width="4.7"
+    height="5.2"
+    fill="#22d3ee"
+    opacity="0">
+
+    <animate
+    attributeName="x"
+    from="20"
+    to="913.0"
+    begin="1.782s"
+    dur="0.04s"
+    fill="freeze"/>
+
+    <set
+    attributeName="opacity"
+    to="0.85"
+    begin="1.782s"/>
+
+    <set
+    attributeName="opacity"
+    to="0"
+    begin="1.817s"/>
+
+    </rect>
     
     <clipPath id="r100">
     <rect
@@ -3301,6 +6001,33 @@ sahil@github: ~$ ./portrait.sh
         
     </g>
     
+    <rect
+    y="758.0"
+    width="4.7"
+    height="5.2"
+    fill="#22d3ee"
+    opacity="0">
+
+    <animate
+    attributeName="x"
+    from="20"
+    to="913.0"
+    begin="1.800s"
+    dur="0.04s"
+    fill="freeze"/>
+
+    <set
+    attributeName="opacity"
+    to="0.85"
+    begin="1.800s"/>
+
+    <set
+    attributeName="opacity"
+    to="0"
+    begin="1.835s"/>
+
+    </rect>
+    
     <clipPath id="r101">
     <rect
     x="20"
@@ -3332,6 +6059,33 @@ sahil@github: ~$ ./portrait.sh
         </text>
         
     </g>
+    
+    <rect
+    y="765.2"
+    width="4.7"
+    height="5.2"
+    fill="#22d3ee"
+    opacity="0">
+
+    <animate
+    attributeName="x"
+    from="20"
+    to="913.0"
+    begin="1.818s"
+    dur="0.04s"
+    fill="freeze"/>
+
+    <set
+    attributeName="opacity"
+    to="0.85"
+    begin="1.818s"/>
+
+    <set
+    attributeName="opacity"
+    to="0"
+    begin="1.853s"/>
+
+    </rect>
     
     <clipPath id="r102">
     <rect
@@ -3365,6 +6119,33 @@ sahil@github: ~$ ./portrait.sh
         
     </g>
     
+    <rect
+    y="772.4"
+    width="4.7"
+    height="5.2"
+    fill="#22d3ee"
+    opacity="0">
+
+    <animate
+    attributeName="x"
+    from="20"
+    to="913.0"
+    begin="1.836s"
+    dur="0.04s"
+    fill="freeze"/>
+
+    <set
+    attributeName="opacity"
+    to="0.85"
+    begin="1.836s"/>
+
+    <set
+    attributeName="opacity"
+    to="0"
+    begin="1.871s"/>
+
+    </rect>
+    
     <clipPath id="r103">
     <rect
     x="20"
@@ -3396,6 +6177,33 @@ sahil@github: ~$ ./portrait.sh
         </text>
         
     </g>
+    
+    <rect
+    y="779.6"
+    width="4.7"
+    height="5.2"
+    fill="#22d3ee"
+    opacity="0">
+
+    <animate
+    attributeName="x"
+    from="20"
+    to="913.0"
+    begin="1.854s"
+    dur="0.04s"
+    fill="freeze"/>
+
+    <set
+    attributeName="opacity"
+    to="0.85"
+    begin="1.854s"/>
+
+    <set
+    attributeName="opacity"
+    to="0"
+    begin="1.889s"/>
+
+    </rect>
     
     <clipPath id="r104">
     <rect
@@ -3429,6 +6237,33 @@ sahil@github: ~$ ./portrait.sh
         
     </g>
     
+    <rect
+    y="786.8"
+    width="4.7"
+    height="5.2"
+    fill="#22d3ee"
+    opacity="0">
+
+    <animate
+    attributeName="x"
+    from="20"
+    to="913.0"
+    begin="1.872s"
+    dur="0.04s"
+    fill="freeze"/>
+
+    <set
+    attributeName="opacity"
+    to="0.85"
+    begin="1.872s"/>
+
+    <set
+    attributeName="opacity"
+    to="0"
+    begin="1.907s"/>
+
+    </rect>
+    
     <clipPath id="r105">
     <rect
     x="20"
@@ -3460,6 +6295,33 @@ sahil@github: ~$ ./portrait.sh
         </text>
         
     </g>
+    
+    <rect
+    y="794.0"
+    width="4.7"
+    height="5.2"
+    fill="#22d3ee"
+    opacity="0">
+
+    <animate
+    attributeName="x"
+    from="20"
+    to="913.0"
+    begin="1.890s"
+    dur="0.04s"
+    fill="freeze"/>
+
+    <set
+    attributeName="opacity"
+    to="0.85"
+    begin="1.890s"/>
+
+    <set
+    attributeName="opacity"
+    to="0"
+    begin="1.925s"/>
+
+    </rect>
     
     <clipPath id="r106">
     <rect
@@ -3493,6 +6355,33 @@ sahil@github: ~$ ./portrait.sh
         
     </g>
     
+    <rect
+    y="801.2"
+    width="4.7"
+    height="5.2"
+    fill="#22d3ee"
+    opacity="0">
+
+    <animate
+    attributeName="x"
+    from="20"
+    to="913.0"
+    begin="1.908s"
+    dur="0.04s"
+    fill="freeze"/>
+
+    <set
+    attributeName="opacity"
+    to="0.85"
+    begin="1.908s"/>
+
+    <set
+    attributeName="opacity"
+    to="0"
+    begin="1.943s"/>
+
+    </rect>
+    
     <clipPath id="r107">
     <rect
     x="20"
@@ -3524,6 +6413,33 @@ sahil@github: ~$ ./portrait.sh
         </text>
         
     </g>
+    
+    <rect
+    y="808.4"
+    width="4.7"
+    height="5.2"
+    fill="#22d3ee"
+    opacity="0">
+
+    <animate
+    attributeName="x"
+    from="20"
+    to="913.0"
+    begin="1.926s"
+    dur="0.04s"
+    fill="freeze"/>
+
+    <set
+    attributeName="opacity"
+    to="0.85"
+    begin="1.926s"/>
+
+    <set
+    attributeName="opacity"
+    to="0"
+    begin="1.961s"/>
+
+    </rect>
     
     <clipPath id="r108">
     <rect
@@ -3557,6 +6473,33 @@ sahil@github: ~$ ./portrait.sh
         
     </g>
     
+    <rect
+    y="815.6"
+    width="4.7"
+    height="5.2"
+    fill="#22d3ee"
+    opacity="0">
+
+    <animate
+    attributeName="x"
+    from="20"
+    to="913.0"
+    begin="1.944s"
+    dur="0.04s"
+    fill="freeze"/>
+
+    <set
+    attributeName="opacity"
+    to="0.85"
+    begin="1.944s"/>
+
+    <set
+    attributeName="opacity"
+    to="0"
+    begin="1.979s"/>
+
+    </rect>
+    
     <clipPath id="r109">
     <rect
     x="20"
@@ -3588,6 +6531,33 @@ sahil@github: ~$ ./portrait.sh
         </text>
         
     </g>
+    
+    <rect
+    y="822.8"
+    width="4.7"
+    height="5.2"
+    fill="#22d3ee"
+    opacity="0">
+
+    <animate
+    attributeName="x"
+    from="20"
+    to="913.0"
+    begin="1.962s"
+    dur="0.04s"
+    fill="freeze"/>
+
+    <set
+    attributeName="opacity"
+    to="0.85"
+    begin="1.962s"/>
+
+    <set
+    attributeName="opacity"
+    to="0"
+    begin="1.997s"/>
+
+    </rect>
     
     <clipPath id="r110">
     <rect
@@ -3621,6 +6591,33 @@ sahil@github: ~$ ./portrait.sh
         
     </g>
     
+    <rect
+    y="830.0"
+    width="4.7"
+    height="5.2"
+    fill="#22d3ee"
+    opacity="0">
+
+    <animate
+    attributeName="x"
+    from="20"
+    to="913.0"
+    begin="1.980s"
+    dur="0.04s"
+    fill="freeze"/>
+
+    <set
+    attributeName="opacity"
+    to="0.85"
+    begin="1.980s"/>
+
+    <set
+    attributeName="opacity"
+    to="0"
+    begin="2.015s"/>
+
+    </rect>
+    
     <clipPath id="r111">
     <rect
     x="20"
@@ -3652,6 +6649,33 @@ sahil@github: ~$ ./portrait.sh
         </text>
         
     </g>
+    
+    <rect
+    y="837.2"
+    width="4.7"
+    height="5.2"
+    fill="#22d3ee"
+    opacity="0">
+
+    <animate
+    attributeName="x"
+    from="20"
+    to="913.0"
+    begin="1.998s"
+    dur="0.04s"
+    fill="freeze"/>
+
+    <set
+    attributeName="opacity"
+    to="0.85"
+    begin="1.998s"/>
+
+    <set
+    attributeName="opacity"
+    to="0"
+    begin="2.033s"/>
+
+    </rect>
     
     <clipPath id="r112">
     <rect
@@ -3685,6 +6709,33 @@ sahil@github: ~$ ./portrait.sh
         
     </g>
     
+    <rect
+    y="844.4"
+    width="4.7"
+    height="5.2"
+    fill="#22d3ee"
+    opacity="0">
+
+    <animate
+    attributeName="x"
+    from="20"
+    to="913.0"
+    begin="2.016s"
+    dur="0.04s"
+    fill="freeze"/>
+
+    <set
+    attributeName="opacity"
+    to="0.85"
+    begin="2.016s"/>
+
+    <set
+    attributeName="opacity"
+    to="0"
+    begin="2.051s"/>
+
+    </rect>
+    
     <clipPath id="r113">
     <rect
     x="20"
@@ -3716,6 +6767,33 @@ sahil@github: ~$ ./portrait.sh
         </text>
         
     </g>
+    
+    <rect
+    y="851.6"
+    width="4.7"
+    height="5.2"
+    fill="#22d3ee"
+    opacity="0">
+
+    <animate
+    attributeName="x"
+    from="20"
+    to="913.0"
+    begin="2.034s"
+    dur="0.04s"
+    fill="freeze"/>
+
+    <set
+    attributeName="opacity"
+    to="0.85"
+    begin="2.034s"/>
+
+    <set
+    attributeName="opacity"
+    to="0"
+    begin="2.069s"/>
+
+    </rect>
     
     <clipPath id="r114">
     <rect
@@ -3749,6 +6827,33 @@ sahil@github: ~$ ./portrait.sh
         
     </g>
     
+    <rect
+    y="858.8"
+    width="4.7"
+    height="5.2"
+    fill="#22d3ee"
+    opacity="0">
+
+    <animate
+    attributeName="x"
+    from="20"
+    to="913.0"
+    begin="2.052s"
+    dur="0.04s"
+    fill="freeze"/>
+
+    <set
+    attributeName="opacity"
+    to="0.85"
+    begin="2.052s"/>
+
+    <set
+    attributeName="opacity"
+    to="0"
+    begin="2.087s"/>
+
+    </rect>
+    
     <clipPath id="r115">
     <rect
     x="20"
@@ -3780,6 +6885,33 @@ sahil@github: ~$ ./portrait.sh
         </text>
         
     </g>
+    
+    <rect
+    y="866.0"
+    width="4.7"
+    height="5.2"
+    fill="#22d3ee"
+    opacity="0">
+
+    <animate
+    attributeName="x"
+    from="20"
+    to="913.0"
+    begin="2.070s"
+    dur="0.04s"
+    fill="freeze"/>
+
+    <set
+    attributeName="opacity"
+    to="0.85"
+    begin="2.070s"/>
+
+    <set
+    attributeName="opacity"
+    to="0"
+    begin="2.105s"/>
+
+    </rect>
     
     <clipPath id="r116">
     <rect
@@ -3813,6 +6945,33 @@ sahil@github: ~$ ./portrait.sh
         
     </g>
     
+    <rect
+    y="873.2"
+    width="4.7"
+    height="5.2"
+    fill="#22d3ee"
+    opacity="0">
+
+    <animate
+    attributeName="x"
+    from="20"
+    to="913.0"
+    begin="2.088s"
+    dur="0.04s"
+    fill="freeze"/>
+
+    <set
+    attributeName="opacity"
+    to="0.85"
+    begin="2.088s"/>
+
+    <set
+    attributeName="opacity"
+    to="0"
+    begin="2.123s"/>
+
+    </rect>
+    
     <clipPath id="r117">
     <rect
     x="20"
@@ -3844,6 +7003,33 @@ sahil@github: ~$ ./portrait.sh
         </text>
         
     </g>
+    
+    <rect
+    y="880.4"
+    width="4.7"
+    height="5.2"
+    fill="#22d3ee"
+    opacity="0">
+
+    <animate
+    attributeName="x"
+    from="20"
+    to="913.0"
+    begin="2.106s"
+    dur="0.04s"
+    fill="freeze"/>
+
+    <set
+    attributeName="opacity"
+    to="0.85"
+    begin="2.106s"/>
+
+    <set
+    attributeName="opacity"
+    to="0"
+    begin="2.141s"/>
+
+    </rect>
     
     <clipPath id="r118">
     <rect
@@ -3877,6 +7063,33 @@ sahil@github: ~$ ./portrait.sh
         
     </g>
     
+    <rect
+    y="887.6"
+    width="4.7"
+    height="5.2"
+    fill="#22d3ee"
+    opacity="0">
+
+    <animate
+    attributeName="x"
+    from="20"
+    to="913.0"
+    begin="2.124s"
+    dur="0.04s"
+    fill="freeze"/>
+
+    <set
+    attributeName="opacity"
+    to="0.85"
+    begin="2.124s"/>
+
+    <set
+    attributeName="opacity"
+    to="0"
+    begin="2.159s"/>
+
+    </rect>
+    
     <clipPath id="r119">
     <rect
     x="20"
@@ -3908,6 +7121,33 @@ sahil@github: ~$ ./portrait.sh
         </text>
         
     </g>
+    
+    <rect
+    y="894.8"
+    width="4.7"
+    height="5.2"
+    fill="#22d3ee"
+    opacity="0">
+
+    <animate
+    attributeName="x"
+    from="20"
+    to="913.0"
+    begin="2.142s"
+    dur="0.04s"
+    fill="freeze"/>
+
+    <set
+    attributeName="opacity"
+    to="0.85"
+    begin="2.142s"/>
+
+    <set
+    attributeName="opacity"
+    to="0"
+    begin="2.177s"/>
+
+    </rect>
     
 <rect
 x="0"
@@ -3962,7 +7202,7 @@ sahil@github:~$ whoami
 </text>
 
 <rect
-x="216"
+x="270"
 y="908.0"
 width="8"
 height="14"
