@@ -35,7 +35,7 @@ ROWS = [
     ("host",),
 
     ("kv", "Education", "B.Tech CCE • Manipal University Jaipur"),
-    ("kv", "Graduation", "2028 • CGPA 9.12/10"),
+    ("kv", "Graduation", "2028 • GPA 9.12/10"),
 
     ("gap",),
 
