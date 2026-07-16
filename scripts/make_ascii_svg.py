@@ -208,6 +208,46 @@ sahil@github: ~$ ./portrait.sh
 '''
 )
 
+parts.append(
+f'''
+<g>
+
+<circle
+cx="{CANVAS_W-120}"
+cy="{TITLEBAR_H/2}"
+r="5"
+fill="#ff6b6b">
+
+<animate
+attributeName="opacity"
+values="1;0.15;1;0.15;1"
+dur="2s"
+repeatCount="indefinite"/>
+
+</circle>
+
+<text
+x="{CANVAS_W-105}"
+y="{TITLEBAR_H/2+4}"
+fill="#ff7b7b"
+font-size="11"
+font-weight="600"
+letter-spacing="2">
+
+SCANNING
+
+<animate
+attributeName="opacity"
+values="1;0.4;1"
+dur="2s"
+repeatCount="indefinite"/>
+
+</text>
+
+</g>
+'''
+)
+
 font_size = CELL_H * 0.86
 
 for ry,line in enumerate(rows_txt):

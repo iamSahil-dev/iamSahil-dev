@@ -69,6 +69,42 @@ text-anchor="middle">
 sahil@github: ~$ ./portrait.sh
 </text>
 
+<g>
+
+<circle
+cx="813"
+cy="15.0"
+r="5"
+fill="#ff6b6b">
+
+<animate
+attributeName="opacity"
+values="1;0.15;1;0.15;1"
+dur="2s"
+repeatCount="indefinite"/>
+
+</circle>
+
+<text
+x="828"
+y="19.0"
+fill="#ff7b7b"
+font-size="11"
+font-weight="600"
+letter-spacing="2">
+
+SCANNING
+
+<animate
+attributeName="opacity"
+values="1;0.4;1"
+dur="2s"
+repeatCount="indefinite"/>
+
+</text>
+
+</g>
+
     <clipPath id="r0">
     <rect
     x="20"
