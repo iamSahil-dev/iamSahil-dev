@@ -266,6 +266,37 @@ for ry,line in enumerate(rows_txt):
     '''
     )
 
+    parts.append(
+    f'''
+    <rect
+    y="{row_y+1:.1f}"
+    width="{CELL_W}"
+    height="{CELL_H-2}"
+    fill="{CURSOR}"
+    opacity="0">
+
+    <animate
+    attributeName="x"
+    from="{PAD}"
+    to="{PAD+ART_W}"
+    begin="{delay:.3f}s"
+    dur="{ROW_DUR:.2f}s"
+    fill="freeze"/>
+
+    <set
+    attributeName="opacity"
+    to="0.85"
+    begin="{delay:.3f}s"/>
+
+    <set
+    attributeName="opacity"
+    to="0"
+    begin="{delay+ROW_DUR:.3f}s"/>
+
+    </rect>
+    '''
+    )
+
 # ============================================================
 # SCANNING EFFECT
 # ============================================================
@@ -348,7 +379,7 @@ sahil@github:~$ whoami
 parts.append(
 f'''
 <rect
-x="{PAD+196}"
+x="{PAD+310}"
 y="{status_y-12:.1f}"
 width="8"
 height="14"
