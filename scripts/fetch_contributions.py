@@ -17,14 +17,27 @@ import sys
 import requests
 from bs4 import BeautifulSoup
 
-USERNAME = os.environ.get("GH_PROFILE_USER", "YOUR_GITHUB_USERNAME")
+USERNAME = os.environ.get("GH_PROFILE_USER", "iamSahil-dev")
 URL = f"https://github.com/users/{USERNAME}/contributions"
 OUT_PATH = os.path.join(os.path.dirname(__file__), "..", "data", "contributions.json")
 
 
 def fetch_days():
-    resp = requests.get(URL, headers={"User-Agent": "profile-readme-bot/1.0"}, timeout=30)
-    resp.raise_for_status()
+    last_error = None
+
+    for attempt in range(3):
+        try:
+            resp = requests.get(
+                URL,
+                headers={"User-Agent": "profile-readme-bot/1.0"},
+                timeout=30,
+            )
+            resp.raise_for_status()
+            break
+        except Exception as e:
+            last_error = e
+    else:
+        raise last_error
     soup = BeautifulSoup(resp.text, "html.parser")
 
     cells = soup.select("td.ContributionCalendar-day")
@@ -99,7 +112,7 @@ def build_data(days):
 
     return {
         "username": USERNAME,
-        "generated_at": datetime.datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ"),
+        "generated_at": datetime.datetime.now(datetime.timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ"),
         "range": {"start": days[0]["date"], "end": days[-1]["date"]},
         "total_contributions": total,
         "active_days": active_days,

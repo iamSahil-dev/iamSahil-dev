@@ -123,9 +123,60 @@ def render(data):
         f'<line x1="0" y1="{TITLEBAR_H}" x2="{canvas_w}" y2="{TITLEBAR_H}" stroke="{FRAME}" stroke-opacity="0.35"/>',
     ]
     for i, dotcol in enumerate(["#ff5f56", "#ffbd2e", "#27c93f"]):
-        parts.append(f'<circle cx="{PAD + i*16}" cy="{TITLEBAR_H/2}" r="5" fill="{dotcol}"/>')
-    parts.append(f'<text x="{canvas_w/2}" y="{TITLEBAR_H/2 + 4}" fill="{MUTED}" font-size="12" '
-                 f'text-anchor="middle">avi@github: ~/contributions --graph</text>')
+        parts.append(
+            f'<circle cx="{PAD + i*16}" cy="{TITLEBAR_H/2}" r="5" fill="{dotcol}"/>'
+        )
+
+    parts.append(
+    f'''
+    <text
+        x="{canvas_w/2}"
+        y="{TITLEBAR_H/2 + 4}"
+        fill="{MUTED}"
+        font-size="12"
+        text-anchor="middle">
+
+        sahil@github: ~/contributions --graph
+
+    </text>
+    '''
+    )
+
+    parts.append(
+    f'''
+    <circle
+        cx="{canvas_w-78}"
+        cy="{TITLEBAR_H/2}"
+        r="4"
+        fill="{GREEN}">
+
+        <animate
+            attributeName="opacity"
+            values="1;0.25;1"
+            dur="1.8s"
+            repeatCount="indefinite"/>
+
+    </circle>
+
+    <text
+        x="{canvas_w-68}"
+        y="{TITLEBAR_H/2+4}"
+        fill="{GREEN}"
+        font-size="10"
+        font-weight="700">
+
+        LIVE
+
+        <animate
+            attributeName="opacity"
+            values="1;0.4;1"
+            dur="1.8s"
+            repeatCount="indefinite"/>
+
+    </text>
+    '''
+    )
+    
 
     grid_top = TITLEBAR_H + TOP_LABEL_H
     grid_left = PAD + LEFT_LABEL_W
@@ -148,10 +199,61 @@ def render(data):
             gy = grid_top + ri * STEP
             delay = ci * COL_T + ri * ROW_T
             plural = "s" if count != 1 else ""
+
+
+            pulse = ""
+
+            if lvl >= 4:
+                pulse = '''
+                <animate
+                    attributeName="fill-opacity"
+                    values="1;0.65;1"
+                    dur="2.5s"
+                    repeatCount="indefinite"/>
+
+                <animate
+                    attributeName="rx"
+                    values="2.5;3.5;2.5"
+                    dur="2.5s"
+                    repeatCount="indefinite"/>
+                '''
+
+            pulse = ""
+
+            if lvl == 5:
+                pulse = '''
+                <animate
+                    attributeName="fill"
+                    values="#69f0a0;#8bffbf;#69f0a0"
+                    dur="2.5s"
+                    repeatCount="indefinite"/>
+
+                <animate
+                    attributeName="fill-opacity"
+                    values="1;0.75;1"
+                    dur="2.5s"
+                    repeatCount="indefinite"/>
+                '''
+
+
             parts.append(
-                f'<rect class="c" x="{gx}" y="{gy}" width="{CELL}" height="{CELL}" rx="2.5" '
-                f'fill="{PALETTE[lvl]}" style="animation-delay:{delay:.3f}s">'
-                f'<title>{date_s}: {count} contribution{plural}</title></rect>'
+            f'''
+            <rect
+                class="c"
+                x="{gx}"
+                y="{gy}"
+                width="{CELL}"
+                height="{CELL}"
+                rx="2.5"
+                fill="{PALETTE[lvl]}"
+                style="animation-delay:{delay:.3f}s">
+
+                {pulse}
+
+                <title>{date_s}: {count} contribution{plural}</title>
+
+            </rect>
+            '''
             )
 
     # legend: Less [][][][][] More (bottom-right of the grid)
