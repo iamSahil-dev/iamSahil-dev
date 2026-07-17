@@ -6,7 +6,7 @@ import sys
 HERE = os.path.dirname(os.path.abspath(__file__))
 
 SRC = sys.argv[1] if len(sys.argv) > 1 else os.path.join(HERE, "..", "source-prepped.png")
-OUT = sys.argv[2] if len(sys.argv) > 2 else os.path.join(HERE, "..", "avi-ascii.svg")
+OUT = sys.argv[2] if len(sys.argv) > 2 else os.path.join(HERE, "..", "sahil-ascii.svg")
 
 # ============================================================
 # QUALITY SETTINGS
@@ -20,7 +20,7 @@ CELL_H = 7.2
 
 RAMP = (
     " .'`^\",:;Il!i><~+_-?][}{1)(|\\/"
-    "tfjrxnuvczXYUJCLQ0OZmwqpdbkhao*#MW&8%B@$"
+    "tfjrxnuvczXYUJCLQ0OZmwqpdbsahil*#MW&8%B@$"
 )
 
 CONTRAST = 1.75
