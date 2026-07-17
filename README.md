@@ -3,7 +3,7 @@
 <table>
 <tr>
 <td valign="top">
-<img src="./avi-ascii.svg" width="431" alt="ASCII portrait" />
+<img src="./sahil-ascii.svg" width="431" alt="ASCII portrait" />
 </td>
 
 <td valign="top">
